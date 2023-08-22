@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/photograph-react/static/css/main.199cbbbc.css",
+    "main.js": "/photograph-react/static/js/main.5861bc90.js",
+    "static/media/TUMO.jpg": "/photograph-react/static/media/TUMO.a9abab7b0d7ff44e8146.jpg",
+    "static/media/background-desktop.jpg": "/photograph-react/static/media/background-desktop.73a0b54f947e2f397c21.jpg",
+    "static/media/beehive.jpg": "/photograph-react/static/media/beehive.2bb73ae6e6ba216d13eb.jpg",
+    "static/media/cafe.jpg": "/photograph-react/static/media/cafe.18f6307b6f5a1f11039f.jpg",
+    "static/media/roses.jpg": "/photograph-react/static/media/roses.1f1a81c8096d9848f77e.jpg",
+    "static/media/family1.jpg": "/photograph-react/static/media/family1.f0c9668cf485aa8e3268.jpg",
+    "static/media/background-mobile.jpg": "/photograph-react/static/media/background-mobile.9bf3c13d31f72964beba.jpg",
+    "static/media/stars.jpg": "/photograph-react/static/media/stars.4ffe467d37a891e27313.jpg",
+    "static/media/bull.jpg": "/photograph-react/static/media/bull.f4c543b90f180ba48b60.jpg",
+    "static/media/face.jpg": "/photograph-react/static/media/face.0c691f14740de8ea7654.jpg",
+    "index.html": "/photograph-react/index.html",
+    "main.199cbbbc.css.map": "/photograph-react/static/css/main.199cbbbc.css.map",
+    "main.5861bc90.js.map": "/photograph-react/static/js/main.5861bc90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.199cbbbc.css",
+    "static/js/main.5861bc90.js"
+  ]
+}
