@@ -1,6 +1,5 @@
 .section{
    width: 100%;
-   /* padding: 5%; */
    height: 150vh;
    display: flex;
    flex-direction: column;
@@ -31,7 +30,12 @@
 
 @media screen and (max-width: 1100px){
    .section{
+      min-height: 2600px;
       height: 350vh;
+   }
+
+   .section > h1 {
+      font-size: 5vh;
    }
 
    .row{
