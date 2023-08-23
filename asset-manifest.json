@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/photograph-react/static/css/main.199cbbbc.css",
-    "main.js": "/photograph-react/static/js/main.5861bc90.js",
+    "main.css": "/photograph-react/static/css/main.cc425b08.css",
+    "main.js": "/photograph-react/static/js/main.a02d8bd6.js",
     "static/media/TUMO.jpg": "/photograph-react/static/media/TUMO.a9abab7b0d7ff44e8146.jpg",
     "static/media/background-desktop.jpg": "/photograph-react/static/media/background-desktop.73a0b54f947e2f397c21.jpg",
     "static/media/beehive.jpg": "/photograph-react/static/media/beehive.2bb73ae6e6ba216d13eb.jpg",
@@ -13,11 +13,11 @@
     "static/media/bull.jpg": "/photograph-react/static/media/bull.f4c543b90f180ba48b60.jpg",
     "static/media/face.jpg": "/photograph-react/static/media/face.0c691f14740de8ea7654.jpg",
     "index.html": "/photograph-react/index.html",
-    "main.199cbbbc.css.map": "/photograph-react/static/css/main.199cbbbc.css.map",
-    "main.5861bc90.js.map": "/photograph-react/static/js/main.5861bc90.js.map"
+    "main.cc425b08.css.map": "/photograph-react/static/css/main.cc425b08.css.map",
+    "main.a02d8bd6.js.map": "/photograph-react/static/js/main.a02d8bd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.199cbbbc.css",
-    "static/js/main.5861bc90.js"
+    "static/css/main.cc425b08.css",
+    "static/js/main.a02d8bd6.js"
   ]
 }
